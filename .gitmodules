@@ -1,0 +1,3 @@
+[submodule "git-show-sub"]
+	path = git-show-sub
+	url = git@github.com:songfrank/git-show-sub.git
